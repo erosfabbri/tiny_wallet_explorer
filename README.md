@@ -1,5 +1,9 @@
 WORKING WITH PYTHON 3
 
+The script needs the following libraries:
+* Requests
+* Tkinter
+
 
 Pros and Cons:
 - A very tiny window (210x75 px).
