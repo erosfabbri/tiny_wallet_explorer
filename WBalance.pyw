@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter.ttk import *
 # ADD HERE YOUR ADDRESS!
 address = "0x99F6da169610943538205Be87F4135774E8BAb83"
-# PLEASE DONATE IF YOU LIKE THI TINY PROGRAM
+# PLEASE DONATE IF YOU LIKE THIS TINY PROGRAM
 
 
 def search_token():
