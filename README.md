@@ -1,12 +1,11 @@
 WORKING WITH PYTHON 3
 
 
-Pros:
+Pros and Cons:
 - A very tiny window (210x75 px).
 - Auto refresh every 5 minutes.
 - Shows last refresh.
 - Shows Storj balance , Storj complessive value and Eth balance.
-Cons:
 - Impossible to move
 - 'sleep' function causes "not responding" message
 - the starting (and fixed) position maybe change depending on the screen
