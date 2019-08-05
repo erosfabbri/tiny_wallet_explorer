@@ -6,16 +6,23 @@ The script needs the following libraries:
 
 
 Pros and Cons:
-- A very tiny window (210x75 px).
+- A very tiny window (200x100 px).
 - Auto refresh every 5 minutes.
-- Shows last refresh.
+- Shows last refresh.( need to be fixed )
 - Shows Storj balance , Storj complessive value and Eth balance.
 - Impossible to move
-- 'sleep' function causes "not responding" message
 - the starting (and fixed) position maybe change depending on the screen
-- to close the program you have to use Task manager or similar (kill python 3 process)
+
+
+CHANGELOG VERSION 1.5:
+ * fixed the "get stuck" bug moving sleep and refresh functions to a subprocess
+ * added an exit button (before impossible to use because of previous bug)
+ * changed the dimensions of the gui
+ 
+ TO DO:
+ - fix the starting and fixed position
+ - add possibility to move the gui
 
 
 ACCEPTED SUGGESTIONS AND DONATIONS
 ETH: 0x99F6da169610943538205Be87F4135774E8BAb83
-
